@@ -1,0 +1,1 @@
+valid_models = ["Qwen/Qwen2.5-3B-Instruct", "Qwen/Qwen2.5-1.5B-Instruct"]
